@@ -1,0 +1,719 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cha",
+				"chanStr2	chan string ν"
+			],
+			[
+				"No",
+				"Now	time.Time ƒ"
+			],
+			[
+				"S",
+				"Second	 Ɩ"
+			],
+			[
+				"M",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"rem",
+				"remotePath	string ν"
+			],
+			[
+				"lo",
+				"localPath	string ν"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"u",
+				"usageTemplate	 ν"
+			],
+			[
+				"v",
+				"validId	*regexp.Regexp ν"
+			],
+			[
+				"my",
+				"myMux	map[string]func(http.ResponseWriter, *http.Request) ν"
+			],
+			[
+				"Ser",
+				"Server	struct ʈ"
+			],
+			[
+				"f",
+				"func (*myHander)	func (...) {...} ʂ"
+			],
+			[
+				"W",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"Respon",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"To",
+				"Tom	struct ʈ"
+			],
+			[
+				"Tom",
+				"TomArr	ObjectArr ν"
+			],
+			[
+				"func",
+				"func (*Person)	func (...) {...} ʂ"
+			],
+			[
+				"T",
+				"Tom	struct ʈ"
+			],
+			[
+				"fun",
+				"func	Function"
+			],
+			[
+				"ob",
+				"ObjectArr	[]interface{} ʈ"
+			],
+			[
+				"fu",
+				"func (*Person)	func (...) {...} ʂ"
+			],
+			[
+				"s",
+				"S	struct ʈ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"d",
+				"doubleSum	sum int ƒ"
+			],
+			[
+				"m",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"Pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"log",
+				"Log	 ƒ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"PATH",
+				"PATH"
+			],
+			[
+				"str",
+				"strArr"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"sho",
+				"shoplistfile"
+			],
+			[
+				"c",
+				"cPickle"
+			],
+			[
+				"sh",
+				"shoplistfile"
+			],
+			[
+				"you",
+				"You"
+			],
+			[
+				"i",
+				"if	If Condition"
+			],
+			[
+				"pr",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/private/etc/php.ini",
+			"settings":
+			{
+				"buffer_size": 69897,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 316.0,
+		"selected_items":
+		[
+			[
+				"pacek",
+				"Package Control: Install Package"
+			],
+			[
+				"paceage",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Python PEP8 Autoformat",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/apple/eclilseWorkspace/sgl/template/common/base.html",
+		"/Users/apple/eclilseWorkspace/sgl/src/mux/mux.go",
+		"/Users/apple/eclilseWorkspace/sgl/src/sgl/router.go",
+		"/Users/apple/eclilseWorkspace/sgl/src/sgl/main.go",
+		"/Users/apple/eclilseWorkspace/sgl/src/test/myRouter.go",
+		"/Users/apple/eclilseWorkspace/sgl/src/service/topic.go",
+		"/Users/apple/eclilseWorkspace/sgl/src/controller/index.go",
+		"/Users/apple/SkyDrive/study/go/myRouter_mine/readme.txt",
+		"/Users/apple/eclilseWorkspace/sgl/start",
+		"/Users/apple/eclilseWorkspace/sgl/log/panic.log",
+		"/Users/apple/eclilseWorkspace/sgl/src/mux/route.go",
+		"/Users/apple/eclilseWorkspace/sgl/log/info.log",
+		"/Users/apple/eclilseWorkspace/sgl/log/error.log",
+		"/Users/apple/eclilseWorkspace/sgl/src/sgl/sgl",
+		"/Users/apple/eclilseWorkspace/sgl/conf/config.json",
+		"/Users/apple/eclilseWorkspace/sgl/install",
+		"/Users/apple/eclilseWorkspace/sgl/stop",
+		"/Users/apple/eclilseWorkspace/sgl/untitled",
+		"/Users/apple/eclilseWorkspace/sgl/sgl.sublime-workspace",
+		"/Users/apple/eclilseWorkspace/sgl/src/test/bee.go1",
+		"/Users/apple/eclilseWorkspace/sgl/src/process/process.go",
+		"/Users/apple/work/go_appengine/demos/guestbook/guestbook.go",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/IT_guanli12/imsmanifest.xml",
+		"/Users/apple/Downloads/golang-examples-master/goroutines2.go",
+		"/Users/apple/Desktop/studygo/defer.go",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/aaaa.sql",
+		"/Users/apple/Desktop/update_exam_result.sql",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/Alfred 2.0/Afred 2 Powepack SN.rtf",
+		"/Users/apple/Downloads/golang-examples-master/channels4.go",
+		"/Users/apple/Downloads/golang-examples-master/channels3.go",
+		"/Users/apple/Downloads/golang-examples-master/channels1.go",
+		"/Users/apple/Desktop/studygo/src/testHttpMux.go",
+		"/Users/apple/Desktop/studygo/src/scp.go",
+		"/Users/apple/Desktop/studygo/src/bee/main/corpFile.go",
+		"/Users/apple/Desktop/studygo/src/bee/main/mybee.go",
+		"/Users/apple/Desktop/studygo/src/bee/main/bee.go",
+		"/Users/apple/Desktop/studygo/src/bee/pack.go",
+		"/Users/apple/Desktop/studygo/src/bee/util.go",
+		"/Users/apple/Desktop/studygo/src/bee/code.go",
+		"/Users/apple/Desktop/studygo/src/bee/watch.go",
+		"/Users/apple/Desktop/studygo/src/bee/README.md",
+		"/Users/apple/Desktop/studygo/src/bee/autorouter.go",
+		"/Users/apple/Desktop/studygo/src/bee/apiapp.go",
+		"/Users/apple/Desktop/studygo/src/bee/bee.go",
+		"/Users/apple/Desktop/studygo/src/testRegexp.go",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/apple/Desktop/studygo/src/testHttp.go",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/apple/Desktop/studygo/testMap.go",
+		"/Users/apple/Desktop/studygo/fibonacci.go",
+		"/Users/apple/Desktop/studygo/meroy.go",
+		"/Users/apple/Desktop/studygo/go.sublime-workspace",
+		"/Users/apple/Desktop/studygo/defer2.go",
+		"/Users/apple/Desktop/studygo/src/test.go",
+		"/Users/apple/Pictures/com.tencent.qq/18_kerry_20130819_project.sql",
+		"/Users/apple/Desktop/tmp/course_code.txt",
+		"/Users/apple/Desktop/tmp/error.json",
+		"/Users/apple/Desktop/studygo/method/testInterface1.go",
+		"/Users/apple/Desktop/studygo/tools/scp.go",
+		"/Users/apple/Desktop/studygo/method/yg",
+		"/Users/apple/Desktop/studygo/method/testInterface3",
+		"/Users/apple/Desktop/studygo/method/testInterface3.go",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/zookeeper-3.3.3-cdh3u0/src/c/src/zk_adaptor.h",
+		"/Users/apple/Desktop/studygo/method/testMethod.go",
+		"/Users/apple/Desktop/studygo/method/testInterface.go",
+		"/Users/apple/Desktop/studygo/temp.go",
+		"/Users/apple/work/go_appengine/demos/helloworld/helloworld.go",
+		"/Users/apple/SkyDrive/workTodo/2013-7/update_unionpay.sql",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/User/defer.go",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/apple/Desktop/studygo/go.sublime-project",
+		"/Users/apple/Desktop/test.html",
+		"/Users/apple/SkyDrive/workTodo/2013-7/updae_all_els_db_and_share_center.sql.iconv",
+		"/Users/apple/Desktop/updae_all_els_db_and_share_center.sql",
+		"/Library/Tomcat/conf/context.xml",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/util 1/queryB.jsp",
+		"/Users/apple/Desktop/god.txt",
+		"/Users/apple/Desktop/syncShareCenter.sql",
+		"/Users/apple/Desktop/意见.txt",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Users/apple/Desktop/studygo/point.go",
+		"/Library/WebServer/Documents/bch168.com/index.php",
+		"/private/etc/php.ini",
+		"/Users/apple/Desktop/point.go",
+		"/Users/apple/Desktop/meroy.go",
+		"/Users/apple/Desktop/pushpop_test.go",
+		"/Users/apple/Desktop/stack.go",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/SMms002/imsmanifest.xml",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/SMss009/imsmanifest.xml",
+		"/Users/apple/Pictures/com.tencent.qq/QQMessage/Bscb001/index_lms.html",
+		"/Users/apple/Desktop/last_update.sql",
+		"/Users/apple/Desktop/insert_update_sql.sql",
+		"/Users/apple/Desktop/test1.py",
+		"/Users/apple/SkyDrive/study/python/djcode/mysite.sublime-project",
+		"/Users/apple/SkyDrive/study/python/learn/testLoop.py",
+		"/Users/apple/SkyDrive/study/python/learn/my_module.py",
+		"/Users/apple/SkyDrive/study/python/learn/cat.py",
+		"/Users/apple/Desktop/test_str.py",
+		"/Users/apple/SkyDrive/study/python/learn/test_pickle.py",
+		"/Users/apple/SkyDrive/study/python/learn/shoplist.data",
+		"/Users/apple/SkyDrive/study/python/learn/test_pickle",
+		"/Users/apple/SkyDrive/study/python/learn/mywhile.py",
+		"/Users/apple/SkyDrive/study/python/learn/myfor.py",
+		"/Users/apple/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/apple/Desktop/Made of Code.tmTheme"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/apple/eclilseWorkspace/sgl/src/service",
+			"/Users/apple/eclilseWorkspace/sgl/src",
+			"<open files>",
+			"<open files>,/Users/apple/eclilseWorkspace/sgl/src",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timezone",
+			"wiki",
+			"官方文档",
+			"官方",
+			"navbar-fixed-top",
+			"topnav",
+			"FindTopics",
+			"IndexHandler",
+			"Router",
+			"NewRouter",
+			"Router",
+			"IndexHandler",
+			"initRouter",
+			"OLDPATH",
+			"initRouter",
+			"Config",
+			"SavePid",
+			"SavePidTo",
+			"choco_closed",
+			"strbry_closed",
+			"top",
+			"string",
+			"commands",
+			"usageTemplate",
+			"tmpl",
+			"usage",
+			"ReStart",
+			"Start",
+			"cmdRouter",
+			"filepath",
+			"cmdNew\ncmdNew",
+			"cmdNew",
+			"	“",
+			"  ",
+			")\n",
+			"时代光华商学院",
+			"\\n",
+			"/n",
+			"养狗",
+			"养狗问答",
+			"养狗",
+			"answer",
+			"courseId",
+			"?",
+			"jm",
+			"CATEGORY",
+			"i_category_filter",
+			"display",
+			"response",
+			"\n	",
+			"\n\n\\n",
+			"\n/n",
+			"\n\\n",
+			"/n",
+			"index_lms",
+			"env",
+			"jdsls00122",
+			"5a4027834560485daab2222f56c110be",
+			"go",
+			"tbc.com' \n3c58",
+			"smtplib\n3c58"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"chan2_closed",
+			"chan1_closed",
+			"\"",
+			"",
+			",",
+			"'tbc.com'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/private/etc/php.ini",
+					"settings":
+					{
+						"buffer_size": 69897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41119,
+								41119
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22385.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/apple/Desktop":
+	{
+		"height": 254.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo":
+	{
+		"height": 266.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo/method":
+	{
+		"height": 136.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo/src":
+	{
+		"height": 136.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo/src/bee":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo/src/bee/main":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/apple/Desktop/studygo/tools":
+	{
+		"height": 136.0
+	},
+	"output.9o:///Users/apple/Downloads/fsnotify-master":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/apple/Downloads/golang-examples-master":
+	{
+		"height": 134.0
+	},
+	"output.9o:///Users/apple/Library/Application Support/Sublime Text 2/Packages/User":
+	{
+		"height": 136.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 136.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"my",
+				"src/test/myRouter.go"
+			],
+			[
+				"rou",
+				"src/mux/route.go"
+			],
+			[
+				"conf",
+				"conf/config.json"
+			],
+			[
+				"con",
+				"conf/config.json"
+			],
+			[
+				"de",
+				"defer2.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true
+}

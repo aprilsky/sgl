@@ -1,0 +1,10 @@
+
+.idea/*
+out/*
+bin/*
+.project
+.settings/*
+pkg/*
+pid/*
+log/*
+
